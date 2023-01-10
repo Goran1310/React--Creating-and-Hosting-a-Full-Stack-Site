@@ -75,4 +75,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+mkdir my-directory
+cd my-directory
+ls
+npm install
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+https://www.linkedin.com/learning/react-creating-and-hosting-a-full-stack-site-15153869/setting-up-a-react-project?autoSkip=true&autoplay=true&resume=false&u=43268076
+
+Create app with `npm run build
+npx create-react-app ny-blog
+npm install react-router-dom
